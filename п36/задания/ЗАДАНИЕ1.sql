@@ -1,0 +1,2 @@
+SELECT Spec
+FROM Spec
